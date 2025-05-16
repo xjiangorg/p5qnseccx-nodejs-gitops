@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p5qnseccx-nodejs-repository
+spec:
+  url: https://github.com/xjiangorg/p5qnseccx-nodejs
